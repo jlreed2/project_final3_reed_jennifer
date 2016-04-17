@@ -82,7 +82,7 @@ h1 {
 	font-family: 'IM Fell English';
 }
 
-@media (min-width: 950px) {
+@media (min-width: 900px) {
 	.content {
 		float: left;
 		margin-left: 0.5em;
