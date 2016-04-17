@@ -95,6 +95,9 @@ h1 {
 }
 
 footer {
+	font-family: 'IM Fell English';
+	background-image: url("../img/dirty_wood_texture.jpg");
 	padding: 0.5em;
 	clear: both;
+	color: #ffffff;
 }
