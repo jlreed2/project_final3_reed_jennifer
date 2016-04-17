@@ -81,3 +81,20 @@ main {
 h1 {
 	font-family: 'IM Fell English';
 }
+
+@media (min-width: 950px) {
+	.content {
+		float: left;
+		margin-left: 0.5em;
+		width: calc(100% / 3 * 2);
+	}
+	#side {
+		float: right;
+		width: calc(100% / 3 - 3em);
+	}
+}
+
+footer {
+	padding: 0.5em;
+	clear: both;
+}
