@@ -103,6 +103,20 @@ h1 {
 	margin: 0.5em;
 }
 
+.item {
+	float: left;
+}
+
+.price {
+	float: right;
+	padding-right: 0.75em;
+}
+
+.description {
+	padding-left: 0.75em;
+	clear: both;
+}
+
 @media (min-width: 900px) {
 	#app {
 		float: left;
