@@ -109,3 +109,11 @@ footer {
 	clear: both;
 	color: #ffffff;
 }
+
+@media (min-width: 900px) {
+	footer section {
+		float: left;
+		margin-left: 0.5em;
+		width: calc(100% / 3);
+	}
+}
