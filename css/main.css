@@ -141,22 +141,22 @@ footer section {
 
 #fb {
 	padding: 0.25em;
-	float: left;
+	float: right;
 }
 
 #insta {
 	padding: 0.25em;
-	float: left;
+	float: right;
 }
 
 #twitter {
 	padding: 0.25em;
-	float: left;
+	float: right;
 }
 
 #yelp {
 	padding: 0.25em;
-	float: left;
+	float: right;
 }
 
 @media (min-width: 900px) {
