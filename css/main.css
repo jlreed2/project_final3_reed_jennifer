@@ -119,14 +119,10 @@ h1 {
 
 @media (min-width: 900px) {
 	#app,
-	#entree {
+	#entree,
+	#dessert,
+	#bev {
 		float: left;
-		width: 50%;
-	}
-	#bev,
-	#dessert {
-		float: right;
-		clear: left;
 		width: 50%;
 	}
 }
