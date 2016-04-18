@@ -100,6 +100,19 @@ h1 {
 	background-size: 100%;
 	background-repeat: no-repeat;
 	color: #ffffff;
+	margin: 0.5em;
+}
+
+@media (min-width: 900px) {
+	#app {
+		float: left;
+		width: 50%;
+	}
+	#dessert {
+		float: right;
+		clear: left;
+		width: 50%;
+	}
 }
 
 footer {
