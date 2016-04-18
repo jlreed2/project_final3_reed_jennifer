@@ -98,7 +98,7 @@ h1 {
 #menu {
 	background-image: url("../img/chalk_board.jpg");
 	background-size: 100%;
-	background-repeat: no-repeat;
+	background-repeat: repeat-y;
 	color: #ffffff;
 	margin: 0.5em;
 }
@@ -118,10 +118,12 @@ h1 {
 }
 
 @media (min-width: 900px) {
-	#app {
+	#app,
+	#entree {
 		float: left;
 		width: 50%;
 	}
+	#bev,
 	#dessert {
 		float: right;
 		clear: left;
