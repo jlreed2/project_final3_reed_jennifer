@@ -130,39 +130,40 @@ h1 {
 footer {
 	font-family: 'IM Fell English';
 	background-image: url("../img/dirty_wood_texture.jpg");
-	padding: 0.25em;
+	padding: 0.5em;
 	clear: both;
 	color: #ffffff;
 }
 
+footer section {
+	margin: auto;
+}
+
 #fb {
-	background-image: url("../img/fb.png");
-	background-repeat: no-repeat;
-	max-width: 25%;
+	padding: 0.25em;
+	float: left;
 }
 
 #insta {
-	background-image: url("../img/insta.png");
-	background-repeat: no-repeat;
-	max-width: 25%;
+	padding: 0.25em;
+	float: left;
 }
 
 #twitter {
-	background-image: url("../img/twitter.png");
-	background-repeat: no-repeat;
-	max-width: 25%;
+	padding: 0.25em;
+	float: left;
 }
 
 #yelp {
-	background-image: url("../img/yelp.png");
-	background-repeat: no-repeat;
-	max-width: 25%;
+	padding: 0.25em;
+	float: left;
 }
 
 @media (min-width: 900px) {
-	footer section {
+	#address,
+	#contact,
+	#social {
 		float: left;
-		margin-left: 0.5em;
 		width: calc(100% / 3);
 	}
 }
