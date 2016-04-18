@@ -105,9 +105,33 @@ h1 {
 footer {
 	font-family: 'IM Fell English';
 	background-image: url("../img/dirty_wood_texture.jpg");
-	padding: 0.5em;
+	padding: 0.25em;
 	clear: both;
 	color: #ffffff;
+}
+
+#fb {
+	background-image: url("../img/fb.png");
+	background-repeat: no-repeat;
+	max-width: 25%;
+}
+
+#insta {
+	background-image: url("../img/insta.png");
+	background-repeat: no-repeat;
+	max-width: 25%;
+}
+
+#twitter {
+	background-image: url("../img/twitter.png");
+	background-repeat: no-repeat;
+	max-width: 25%;
+}
+
+#yelp {
+	background-image: url("../img/yelp.png");
+	background-repeat: no-repeat;
+	max-width: 25%;
 }
 
 @media (min-width: 900px) {
