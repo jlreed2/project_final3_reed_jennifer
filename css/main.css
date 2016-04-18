@@ -94,6 +94,13 @@ h1 {
 	}
 }
 
+#menu {
+	background-image: url("../img/chalk_board.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	color: #ffffff;
+}
+
 footer {
 	font-family: 'IM Fell English';
 	background-image: url("../img/dirty_wood_texture.jpg");
