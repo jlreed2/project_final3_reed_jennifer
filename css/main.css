@@ -101,6 +101,7 @@ h1 {
 	background-repeat: repeat-y;
 	color: #ffffff;
 	margin: 0.5em;
+	overflow: auto;
 }
 
 .item {
@@ -133,11 +134,10 @@ footer {
 	padding: 0.5em;
 	clear: both;
 	color: #ffffff;
+	overflow: auto;
 }
 
-footer section {
-	margin: auto;
-}
+
 
 #fb {
 	padding: 0.25em;
