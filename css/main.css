@@ -16,8 +16,11 @@ html {
 body {
 	margin: 0;
 	padding: 0;
+
+	/*
 	background-image: url("../img/brick_and_plaster_texture.png");
 	background-size: 100%;
+	*/
 	font-family: 'Italiana', serif;
 	font-size: 1.075em;
 }

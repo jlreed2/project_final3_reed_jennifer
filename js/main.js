@@ -1,4 +1,5 @@
 $( document ).ready( function( ) {
 
- //jquery goes here
+ //backstretch plugin:
+  $.backstretch( './img/brick_and_plaster_texture.png' );
 } );
