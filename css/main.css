@@ -89,6 +89,10 @@ h1 {
 	font-family: 'IM Fell English';
 }
 
+.blueberry {
+	padding-right: 1.75em;
+}
+
 @media (min-width: 900px) {
 	.content {
 		float: left;
