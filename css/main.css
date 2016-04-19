@@ -78,8 +78,7 @@ main {
 }
 
 .content {
-	background-color: #c8bda9;
-	opacity: 0.65;
+	background-color: rgba(200, 189, 169, 0.8);
 	padding: 0.25em;
 	margin: 0.5em;
 }
