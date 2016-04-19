@@ -21,4 +21,7 @@ $( document ).ready( function( ) {
 
 	 //Backstretch plugin:
 	$.backstretch( './img/brick_and_plaster_texture.png' );
+
+	//Blueberry plugin:
+	$( '.blueberry' ).blueberry( );
 } );
