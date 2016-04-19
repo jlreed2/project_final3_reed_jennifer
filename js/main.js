@@ -17,7 +17,7 @@ $( document ).ready( function( ) {
 	} else {
 	    dish = 'Gamp\'s Old Gregarious';
 	}
-	$( '#deal' ).after( dish ) ;
+	$( '#deal' ).append( ' ' + dish ) ;
 
 	 //Backstretch plugin:
 	$.backstretch( './img/brick_and_plaster_texture.png' );
