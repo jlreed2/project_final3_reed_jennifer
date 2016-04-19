@@ -93,6 +93,14 @@ h1 {
 	padding-right: 1.75em;
 }
 
+#side h3 {
+	clear: both;
+}
+
+#info {
+	color: #ffffff;
+}
+
 @media (min-width: 900px) {
 	.content {
 		float: left;
@@ -106,7 +114,7 @@ h1 {
 }
 
 @media (min-width: 750px) {
-	#side p {
+	#promo {
 		float: left;
 		width: 50%;
 	}
