@@ -132,6 +132,10 @@ h1 {
 	overflow: auto;
 }
 
+#menu h2 {
+	padding-left: 48%;
+}
+
 .item {
 	float: left;
 }
