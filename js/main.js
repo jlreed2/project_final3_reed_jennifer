@@ -1,5 +1,10 @@
 $( document ).ready( function( ) {
 
+	//Custom JavaScript:
+	var element = document.getElementById( 'logo' );
+		element.onclick = function() {
+		alert( 'Thanks for stopping by, Muggle' ); };
+
 	//Custom jQuery:
 	var dish;
 	var day = new Date().getDay();
