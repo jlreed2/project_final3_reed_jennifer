@@ -80,7 +80,7 @@ main {
 
 .content {
 	background-color: rgba(200, 189, 169, 0.8);
-	padding: 0.25em;
+	padding: 0.5em;
 	margin: 0.5em;
 }
 
@@ -92,6 +92,10 @@ h1 {
 
 .blueberry {
 	padding-right: 1.75em;
+}
+
+#side {
+	padding: 0.5em;
 }
 
 #side h3 {
@@ -110,7 +114,7 @@ h1 {
 	}
 	#side {
 		float: right;
-		width: calc(100% / 3 - 3em);
+		width: calc(100% / 3 - 4em);
 	}
 }
 
