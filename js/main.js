@@ -1,11 +1,11 @@
+//Custom JavaScript: adds pop up alert when clicking on logo
+var element = document.getElementById( 'logo' );
+	element.onclick = function() {
+	alert( 'Thanks for stopping by, Muggle' ); };
+
 $( document ).ready( function( ) {
 
-	//Custom JavaScript:
-	var element = document.getElementById( 'logo' );
-		element.onclick = function() {
-		alert( 'Thanks for stopping by, Muggle' ); };
-
-	//Custom jQuery:
+	//Custom jQuery: populates dish of the day
 	var dish;
 	var day = new Date().getDay();
 
