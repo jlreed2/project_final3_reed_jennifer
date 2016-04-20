@@ -94,7 +94,7 @@ h1 {
 	padding-right: 1.75em;
 }
 
-#side {
+.side {
 	padding: 0.5em;
 }
 
@@ -112,7 +112,7 @@ h1 {
 		margin-left: 0.5em;
 		width: calc(100% / 3 * 2);
 	}
-	#side {
+	.side {
 		float: right;
 		width: calc(100% / 3 - 4em);
 	}
