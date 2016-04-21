@@ -38,6 +38,7 @@
 ###Plugins
 * [http://srobbin.com/jquery-plugins/backstretch/](http://srobbin.com/jquery-plugins/backstretch/)
   * I used this plugin for the background image for the site
+  
 * [http://marktyrrell.com/labs/blueberry/](http://marktyrrell.com/labs/blueberry/t)
   * I used this plugin for the image slider on the main page
 
