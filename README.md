@@ -36,7 +36,7 @@
   * The exterior image of the Leaky Cauldron sign came from this site
 
 ###Plugins
-* [http://stickyjs.com/](http://stickyjs.com/)
+* [http://srobbin.com/jquery-plugins/backstretch/](http://srobbin.com/jquery-plugins/backstretch/)
   * I used this plugin for the background image for the site
 * [http://marktyrrell.com/labs/blueberry/](http://marktyrrell.com/labs/blueberry/t)
   * I used this plugin for the image slider on the main page
